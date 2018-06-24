@@ -1,0 +1,15 @@
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\CalcUT.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\CalcUT.pdb
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Прогр\M9_CalcMVVM\CalcUT\obj\Debug\CalcUT.csprojResolveAssemblyReference.cache
+G:\Прогр\M9_CalcMVVM\CalcUT\obj\Debug\CalcUT.csproj.CoreCompileInputs.cache
+G:\Прогр\M9_CalcMVVM\CalcUT\obj\Debug\CalcUT.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\obj\Debug\CalcUT.pdb
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\CalcModel.dll
+G:\Прогр\M9_CalcMVVM\CalcUT\bin\Debug\CalcModel.pdb

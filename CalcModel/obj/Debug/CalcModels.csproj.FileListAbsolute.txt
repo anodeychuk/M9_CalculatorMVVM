@@ -1,0 +1,12 @@
+F:\Прогр\M9_CalcMVVM\CalcModel\bin\Debug\CalcModel.dll
+F:\Прогр\M9_CalcMVVM\CalcModel\bin\Debug\CalcModel.pdb
+F:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModels.csprojResolveAssemblyReference.cache
+F:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModels.csproj.CoreCompileInputs.cache
+F:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModel.dll
+F:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModel.pdb
+G:\Прогр\M9_CalcMVVM\CalcModel\bin\Debug\CalcModel.dll
+G:\Прогр\M9_CalcMVVM\CalcModel\bin\Debug\CalcModel.pdb
+G:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModels.csprojResolveAssemblyReference.cache
+G:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModels.csproj.CoreCompileInputs.cache
+G:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModel.dll
+G:\Прогр\M9_CalcMVVM\CalcModel\obj\Debug\CalcModel.pdb

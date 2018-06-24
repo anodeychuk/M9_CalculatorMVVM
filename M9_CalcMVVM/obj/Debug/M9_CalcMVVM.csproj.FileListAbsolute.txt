@@ -1,0 +1,16 @@
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM.csprojResolveAssemblyReference.cache
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\Views\MainWindow.g.cs
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\App.g.cs
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM_MarkupCompile.cache
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM_MarkupCompile.lref
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\bin\Debug\M9_CalcMVVM.exe.config
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\bin\Debug\M9_CalcMVVM.exe
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\bin\Debug\M9_CalcMVVM.pdb
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\Views\MainWindow.baml
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM.g.resources
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM.Properties.Resources.resources
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM.csproj.GenerateResource.Cache
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM.csproj.CoreCompileInputs.cache
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM.exe
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\obj\Debug\M9_CalcMVVM.pdb
+G:\Прогр\M9_CalcMVVM\M9_CalcMVVM\bin\Debug\System.Windows.Interactivity.dll
